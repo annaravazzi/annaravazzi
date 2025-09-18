@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Anna!
+
+- She/her
+- Computer Engineering Student (UTFPR - Brazil)
 
 <!--
 **annaravazzi/annaravazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
