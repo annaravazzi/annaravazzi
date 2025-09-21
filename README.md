@@ -32,14 +32,9 @@ I'm a Computer Engineering student at UTFPR (Federal University of Technology - 
 
 ### 📈 GitHub Stats
 
-<!-- This section is optional but popular. You can generate these from https://github.com/anuraghazra/github-readme-stats -->
-
-<a href="https://github.com/annaravazzi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=annaravazzi&show_icons=true&theme=radical&count_private=true" alt="Your GitHub Stats" />
-</a>
-<a href="https://github.com/annaravazzi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaravazzi&layout=compact&theme=radical" />
-</a>
+![annaravazzi's Stats](https://github-readme-stats.vercel.app/api?username=annaravazzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![annaravazzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=annaravazzi&theme=vue-dark&hide_border=true)
+![annaravazzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annaravazzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
