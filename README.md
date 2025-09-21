@@ -33,7 +33,9 @@ I'm a Computer Engineering student at UTFPR (Federal University of Technology - 
 ### 📈 GitHub Stats
 
 ![annaravazzi's Stats](https://github-readme-stats.vercel.app/api?username=annaravazzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![annaravazzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=annaravazzi&theme=vue-dark&hide_border=true)
+
 ![annaravazzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annaravazzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
