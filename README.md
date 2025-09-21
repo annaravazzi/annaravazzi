@@ -1,14 +1,10 @@
 # Hi there, I'm Anna! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anna-carolina-ravazzi-martins-5bb177213/)
-[![Email](https://img.shields.io/badge/Email-YourEmail-red?style=flat&logo=gmail)](mailto:anna.carolina.ravazzi@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@annaravazzi)
-
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Computer Engineering student at UTFPR (Federal University of Technology - Paraná, Brazil). My programming interests lean more towards low-level coding, embedded systems and automation scripts, though I'm a curious person and like to dabble on other areas too. I'm also not afraid of working with electronic circuits and hardware!
+I'm a Computer Engineering student at UTFPR (Federal University of Technology - Paraná, Brazil). My programming interests lean more towards low-level coding, embedded systems and automation scripts, though I'm a curious person and like to dabble on other areas too. I also enjoy working with electronic circuits and hardware.
 
 ---
 
@@ -47,9 +43,19 @@ I'm a Computer Engineering student at UTFPR (Federal University of Technology - 
 
 ---
 
-### 🏆 Highlights
+### 📧 Contact Me
 
-**My Pinned Repositories:** (Pin your best work from your profile settings!)
+<div align="center">
+  <a href="mailto:anna.carolina.ravazzi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anna-carolina-ravazzi-martins-5bb177213/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@annaravazzi">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
 
 ---
 
