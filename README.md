@@ -4,7 +4,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Engineering student at UTFPR (Federal University of Technology - Paraná, Brazil). My programming interests lean more towards low-level coding, embedded systems and automation scripts, though I'm a curious person and like to dabble on other areas too. I also enjoy working with electronic circuits and hardware.
+I'm a Computer Engineering student at UTFPR (Federal University of Technology - Paraná, Brazil). My programming interests lean more towards low-level coding, embedded systems and automation, though I'm a curious person and like to dabble on other areas too. I also enjoy working with electronic circuits and hardware.
+
+- Currently working as an intern in the Innovation and Technology Lab in UTFPR, helping to develop the Project Miringuava, a smart, low-impact irrigation system for farms.
+- Currently learning React and a bit of Django.
 
 ---
 
@@ -18,6 +21,7 @@ I'm a Computer Engineering student at UTFPR (Federal University of Technology - 
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-8C4FF0?style=for-the-badge&logo=vhdl&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Tools & Platforms:**
 
@@ -27,16 +31,6 @@ I'm a Computer Engineering student at UTFPR (Federal University of Technology - 
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📈 GitHub Stats
-
-![annaravazzi's Stats](https://github-readme-stats.vercel.app/api?username=annaravazzi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![annaravazzi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=annaravazzi&theme=vue-dark&hide_border=true)
-
-![annaravazzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annaravazzi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
